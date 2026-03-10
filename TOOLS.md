@@ -37,6 +37,11 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
+## Browser
+
+- **默认浏览器:** Microsoft Edge
+- **网页登录优先使用 Edge**
+
 ## Feishu (飞书) Webhooks
 
 - **牛逼闪闪的猜忌互啄群:** `https://open.feishu.cn/open-apis/bot/v2/hook/7fea2a65-4d06-4e5f-bbcf-99f89188568a`
