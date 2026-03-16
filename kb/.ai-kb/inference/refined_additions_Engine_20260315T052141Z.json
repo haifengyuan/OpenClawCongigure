@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "role": "Engine",
+    "timestamp": "20260315T052141Z",
+    "method": "offline",
+    "root_dir": "\\home\\node\\.openclaw\\workspace"
+  },
+  "files": {
+    "AGENTS.md": {
+      "has_custom": false,
+      "refined_additions": null,
+      "skipped_reason": "source not found: \\home\\node\\.openclaw\\workspace\\AGENTS.md"
+    },
+    "SOUL.md": {
+      "has_custom": false,
+      "refined_additions": null,
+      "skipped_reason": "source not found: \\home\\node\\.openclaw\\workspace\\SOUL.md"
+    },
+    "TOOLS.md": {
+      "has_custom": false,
+      "refined_additions": null,
+      "skipped_reason": "source not found: \\home\\node\\.openclaw\\workspace\\TOOLS.md"
+    },
+    "HEARTBEAT.md": {
+      "has_custom": false,
+      "refined_additions": null,
+      "skipped_reason": "source not found: \\home\\node\\.openclaw\\workspace\\HEARTBEAT.md"
+    },
+    "IDENTITY.md": {
+      "has_custom": false,
+      "refined_additions": null,
+      "skipped_reason": "source not found: \\home\\node\\.openclaw\\workspace\\IDENTITY.md"
+    }
+  }
+}
