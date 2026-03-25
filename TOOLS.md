@@ -1,4 +1,4 @@
-<!-- LOCKED:START -->
+﻿<!-- LOCKED:START -->
 # TOOLS.md (LOCKED Baseline)
 
 ## 工具优先策略
@@ -671,3 +671,10 @@ lm                   # 列出加载的模块
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
+## Harness 工程化补充（2026-03-25）
+
+- **先找硬约束入口**：遇到反复提醒类问题，优先考虑 pre-check、post-check、schema、模板、脚本、hook，而不是继续补提示词。
+- **验证必须显式化**：执行命令前先写清楚预期成功信号；没有成功信号的命令不算完整方案。
+- **单一信源优先**：同类配置/规则避免散落在多个 md；优先在一个权威位置维护，其余位置只放引用。
+- **失败信息要可定位**：脚本/检查最好给出明确失败原因，避免只报“failed”。
+- **留痕比口头总结重要**：新的工具套路、命令前置条件、环境坑点，要写进 TOOLS.md 或脚本注释，不只写在聊天里。
